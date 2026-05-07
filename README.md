@@ -13,6 +13,8 @@ Optional:
 
 Full permission for anyone to make, sell, modify, just link back to the github / give credit. Do not remove my Logo or any other silkscreen when selling.
 
-![GC Lid Switch fully built](GC Lid Switch pictures/GC Lid Switch fully built.jpg)
-![GC Lid Switch in shipping box](GC Lid Switch pictures/GC Lid Switch in shipping box.jpg)
-![GC Lid 3d render](GC Lid Switch pictures/GC Lid 3d render.png)
+![GC Lid Switch fully built](GC%20Lid%20Switch%20pictures/GC%20Lid%20Switch%20fully%20built.jpg)
+
+![GC Lid Switch in shipping box](GC%20Lid%20Switch%20pictures/GC%20Lid%20Switch%20in%20shipping%20box.jpg)
+
+![GC Lid 3d render](GC%20Lid%20Switch%20pictures/GC%20Lid%203d%20render.png)
